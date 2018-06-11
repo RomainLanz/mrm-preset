@@ -1,5 +1,7 @@
 # MRM preset Adonis
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adonisjs/mrm-preset.svg)](https://greenkeeper.io/)
+
 This repo is the preset used to AdonisJs team to manage and keep their config in sync. It contains a bunch of tasks, which can be used to scaffold a new project and also keep the config files in sync.
 
 ## How it works?
